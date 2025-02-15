@@ -2,7 +2,7 @@
 - 👀 I’m interested in dotnet core
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on dotnet
-- 📫 How to reach me ...
+- 📫 How to reach me douglasaubre@gmail.com
 - ⚡ Fun fact: i use dotnet because i didnt want to use javascript! but i still probably will have to use it in dotnet core mvc.
 
 <!---
